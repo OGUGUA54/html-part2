@@ -1,0 +1,68 @@
+.home-ul {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.home-a {
+    color: blue;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0 10px;
+    font-family: 'Heebo', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+#leftSection
+#right-section{
+    padding: 50px 0;
+}
+#Section { 
+    padding: 0 100px ;
+}
+#right-section img {
+    width:250px;
+    height: 250px;
+    border-radius: 50%;
+}  
+button{ 
+    background-color: blueviolet;
+    padding: 20px; color: aliceblue; } 
+ 
+ 
+ #s-ection {
+    display: flex; justify-content: space-between; align-items: center;
+}
+ 
+ #Section{
+    background-color: lightblue; 
+    margin-top: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.card{
+    background-color: white; width: 500px;
+    padding: 2px;
+}
+.box{display: flex; 
+    justify-content: space-between;
+}
+.hope{ display: flex; align-items: center;
+
+}
+ .something{
+    display: flex;
+ }
+ .hate{
+    display: flex;
+ }
+ .kk {
+    margin-right: 20px;
+
+ }
+ .abc{ display: flex; justify-content: center ; }    
+ .hyt {padding-top: 20px;}  
+
+
+   
